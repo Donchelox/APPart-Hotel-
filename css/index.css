@@ -1,0 +1,229 @@
+.version.index /* version checker */
+{
+	color: #0000EB;
+	background-color: #1749EF;
+}
+
+@-ms-viewport
+{
+	width: 1024px;
+}
+
+@-webkit-viewport
+{
+	width: 1024px;
+}
+
+@-o-viewport
+{
+	width: 1024px;
+}
+
+@-moz-viewport
+{
+	width: 1024px;
+}
+
+@viewport
+{
+	width: 1024px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 722px;
+}
+
+#buttonu152
+{
+	z-index: 10;
+	width: 470px;
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 73px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 250px;
+	left: 28px;
+}
+
+#u153-4
+{
+	z-index: 11;
+	width: 382px;
+	min-height: 124px;
+	background-color: transparent;
+	color: #3C3C3C;
+	letter-spacing: 1px;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 71px;
+	left: 44px;
+}
+
+#buttonu152:hover #u153-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 124px;
+	margin: 71px -10000px 0px 0px;
+}
+
+#buttonu152.ButtonSelected #u153-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 124px;
+	margin: 71px -10000px 0px 0px;
+}
+
+#buttonu152:hover #u153-4 p,#buttonu152:hover #u153-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu157
+{
+	z-index: 15;
+	width: 470px;
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 103px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 250px;
+	left: 536px;
+}
+
+#buttonu152:hover,#buttonu157:hover
+{
+	background-color: #545454;
+	margin: 250px -10000px 0px 0px;
+}
+
+#u158-4
+{
+	z-index: 16;
+	width: 382px;
+	min-height: 63px;
+	background-color: transparent;
+	color: #3C3C3C;
+	letter-spacing: 1px;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 102px;
+	left: 44px;
+}
+
+#buttonu157:hover #u158-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 63px;
+	margin: 102px -10000px 0px 0px;
+}
+
+#buttonu157.ButtonSelected #u158-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 63px;
+	margin: 102px -10000px 0px 0px;
+}
+
+#buttonu157:hover #u158-4 p,#buttonu157:hover #u158-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu152.ButtonSelected #u153-4 p,#buttonu152.ButtonSelected #u153-4 span,#buttonu157.ButtonSelected #u158-4 p,#buttonu157.ButtonSelected #u158-4 span
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#u153-2,#u158-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u153,#u158
+{
+	line-height: 48px;
+}
+
+#u189
+{
+	z-index: 2;
+	padding-bottom: 4px;
+}
+
+#u105-5
+{
+	z-index: 3;
+	width: 379px;
+	min-height: 64px;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 28px;
+}
+
+#u108
+{
+	z-index: 8;
+	width: 78px;
+	padding-bottom: 3px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 937px;
+}
+
+#u106
+{
+	z-index: 9;
+	width: 72px;
+	min-height: 72px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 2px;
+}
+
+#u189-bw
+{
+	z-index: 2;
+	margin-bottom: -4px;
+	margin-top: 637px;
+	height: 85px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -637px;
+}
+

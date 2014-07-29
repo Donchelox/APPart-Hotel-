@@ -1,0 +1,48 @@
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406595744550">
+  <folder name="css">
+    <file name="site_global.css" crc="355473890"/>
+    <file name="master_a-p_g_-maestra.css" crc="279013622" ref="index:entretenimiento:mucama:preguntas:tours:servicios"/>
+    <file name="index.css" crc="3944172015" ref="index"/>
+    <file name="iefonts_index.css" crc="164454314" ref="index"/>
+    <file name="entretenimiento.css" crc="147623291" ref="entretenimiento"/>
+    <file name="iefonts_entretenimiento.css" crc="444180811" ref="entretenimiento"/>
+    <file name="mucama.css" crc="188086809" ref="mucama"/>
+    <file name="iefonts_mucama.css" crc="424791015" ref="mucama"/>
+    <file name="preguntas.css" crc="4240064265" ref="preguntas"/>
+    <file name="iefonts_preguntas.css" crc="337109986" ref="preguntas"/>
+    <file name="tours.css" crc="4199649966" ref="tours"/>
+    <file name="iefonts_tours.css" crc="179053020" ref="tours"/>
+    <file name="servicios.css" crc="4073444594" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="164454314" ref="servicios"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:servicios:mucama:entretenimiento:preguntas:tours"/>
+    <file name="museutils.js" crc="353204447" ref="index:servicios:mucama:entretenimiento:preguntas:tours"/>
+    <file name="pie.js" crc="3827607177" ref="index:servicios"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:servicios:mucama:entretenimiento:preguntas:tours"/>
+    <file name="webpro.js" crc="317917375" ref="mucama:entretenimiento:preguntas"/>
+    <file name="form_check.php" crc="4345382" ref="mucama:preguntas"/>
+    <file name="form_throttle.php" crc="81770323" ref="mucama:preguntas"/>
+    <file name="form-u217.php" crc="15025585" ref="mucama"/>
+    <file name="musewpdisclosure.js" crc="4003881138" ref="entretenimiento"/>
+    <file name="form-u239.php" crc="356071032" ref="preguntas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="tours"/>
+  </folder>
+  <folder name="images">
+    <file name="u226-17.png" crc="182141212" ref="mucama"/>
+    <file name="u226-17-r.png" crc="337013065" ref="mucama"/>
+    <file name="u226-17-m.png" crc="387024845" ref="mucama"/>
+    <file name="u226-17-fs.png" crc="4167214885" ref="mucama"/>
+    <file name="u250-17.png" crc="182141212" ref="preguntas"/>
+    <file name="u250-17-r.png" crc="337013065" ref="preguntas"/>
+    <file name="u250-17-m.png" crc="387024845" ref="preguntas"/>
+    <file name="u250-17-fs.png" crc="4167214885" ref="preguntas"/>
+    <file name="sample-u287-fr.jpg" crc="4017104529" ref="tours"/>
+  </folder>
+  <file name="index.html" crc="4282745783" mt="1406595194517" redirect="true"/>
+  <file name="servicios.html" crc="4148889460" mt="1406595297518" redirect="true"/>
+  <file name="mucama.html" crc="402706980" mt="1406595312150" redirect="true"/>
+  <file name="entretenimiento.html" crc="177081745" mt="1406595501602" redirect="true"/>
+  <file name="preguntas.html" crc="177813754" mt="1406595514121" redirect="true"/>
+  <file name="tours.html" crc="383514374" mt="1406595505978" redirect="true"/>
+</manifest>
